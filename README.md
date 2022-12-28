@@ -6,7 +6,7 @@
 
 Por coincidência eu vi essa página(https://codepen.io/estelito02/pen/EqNzqg). Vi que não era algo tão difícil e tentei. Eis aí o resultado.
 
-"<br>": espaço
+< - br - >: espaço
 <style>
   @import url(link da font);
 </style>
